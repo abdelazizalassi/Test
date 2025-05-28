@@ -2,8 +2,3 @@ Home page
 clicker 
 new line  
 hi aboooood ?
-<<<<<<< HEAD
-create webPage 
-=======
-create page veideo 
->>>>>>> location2
