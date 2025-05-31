@@ -2,5 +2,3 @@ Home page
 clicker 
 new line  
 hi aboooood ?
-create pageHome 
-
