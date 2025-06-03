@@ -1,9 +1,3 @@
-Home page 
-clicker 
-new line  
-hi aboooood ?
 create webBage
 create pageHome 
-add login
-create pageHome 
-add Login 
+create Dashpord 
